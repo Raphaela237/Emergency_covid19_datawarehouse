@@ -55,7 +55,7 @@ offrant ainsi un aperçu clair sur le pourcentage de passages aux urgences liés
    - Dans l'interface Airflow, accédez à la section "DAGs" et recherchez le DAG "extract_transform". 
    - Activez le DAG en basculant le bouton d'activation.
 
-7. **Démarrez l'Exécution **
+7. **Démarrez l'Exécution**
    - Cliquez sur le bouton de lecture ou déclenchez manuellement l'exécution du DAG. 
 
 ##

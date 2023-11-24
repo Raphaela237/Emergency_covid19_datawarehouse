@@ -44,7 +44,7 @@ offrant ainsi un aperçu clair sur le pourcentage de passages aux urgences liés
 4. **Démarrez le conteneur**
    - Exécutez la commande suivante pour démarrer le conteneur Docker d'Airflow.:
      ```bash
-     docker-compose up -d
+     docker-compose up 
      ```
 
 5. **Accéder à l'Interface Web Airflow**
@@ -52,7 +52,7 @@ offrant ainsi un aperçu clair sur le pourcentage de passages aux urgences liés
    - Connectez-vous à l'interface Airflow avec les identifiants par défaut (username: airflow, password: airflow).
 
 6. **Activez le DAG**
-   - Dans l'interface Airflow, accédez à la section "DAGs" et recherchez le DAG "extract_transform". 
+   - Dans l'interface Airflow, accédez à la section "DAGs" et recherchez le DAG "transform_and_load". 
    - Activez le DAG en basculant le bouton d'activation.
 
 7. **Démarrez l'Exécution**

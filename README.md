@@ -32,7 +32,7 @@ offrant ainsi un aperçu clair sur le pourcentage de passages aux urgences liés
 2. **Cloner le Projet**
    - Clonez le projet depuis GitHub si vous ne l'avez pas déjà fait:
      ```bash
-     git clone https://github.com/votre-utilisateur/Projet_airflow.git
+     git clone https://github.com/Raphaela237/Emergency_covid19_datawarehouse
      ```
 
 3. **Cherchez le repertoire project_airflow`:**

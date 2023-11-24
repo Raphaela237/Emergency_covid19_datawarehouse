@@ -29,7 +29,7 @@ offrant ainsi un aperçu clair sur le pourcentage de passages aux urgences liés
    - Si ce n'est pas le cas, suivez les instructions sur [le site officiel de Docker](https://docs.docker.com/get-docker/) 
      pour installer Docker sur votre machine.
 
-2. **Cloner le Projet **
+2. **Cloner le Projet**
    - Clonez le projet depuis GitHub si vous ne l'avez pas déjà fait:
      ```bash
      git clone https://github.com/votre-utilisateur/Projet_airflow.git
@@ -51,7 +51,7 @@ offrant ainsi un aperçu clair sur le pourcentage de passages aux urgences liés
    - Ouvrez votre navigateur et accédez à http://localhost:8080. 
    - Connectez-vous à l'interface Airflow avec les identifiants par défaut (username: airflow, password: airflow).
 
-6. **Activez le DAG **
+6. **Activez le DAG**
    - Dans l'interface Airflow, accédez à la section "DAGs" et recherchez le DAG "extract_transform". 
    - Activez le DAG en basculant le bouton d'activation.
 
